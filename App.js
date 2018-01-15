@@ -1,83 +1,28 @@
-import React from 'react';
-import { StyleSheet, View } from 'react-native';
+import { Navigation } from 'react-native-navigation';
+import { Provider } from 'react-redux';
 
-import PlaceList from './src/components/PlaceList/PlaceList';
-import PlaceInput from './src/components/PlaceInput/PlaceInput';
-import PlaceDetail from './src/components/PlaceDetail/PlaceDetail';
+import AuthScreen from './src/screens/Auth/Auth';
+import FindPlaceScreen from './src/screens/FindPlace/FindPlace';
+import SharePlaceScreen from './src/screens/SharePlace/SharePlace';
+import SideDrawerScreen from './src/screens/SideDrawer/SideDrawer';
+import PlaceDetailScreen from './src/screens/PlaceDetail/PlaceDetail';
 
-export default class App extends React.Component {
-  constructor(props) {
-    super(props);
+import configureStore from './src/store/configureStore';
 
-    this.state = {
-      places: [],
-      selectedPlace: null
-    };
+const store = configureStore();
 
-    [
-      "placeAddedHandler",
-      "modalClosedHandler",
-      "placeDeletedHandler",
-      "placeSelectedHandler"
-    ].map(fn => this[fn] = this[fn].bind(this));
-  }
+// Register Screens
+Navigation.registerComponent('awesome-places.AuthScreen', () => AuthScreen, store, Provider);
 
-  placeAddedHandler(placeName) {
-    this.setState(prevState => {
-      return {
-        places: prevState.places.concat({
-          key: Math.random(),
-          name: placeName,
-          image: {
-            uri: "http://i0.kym-cdn.com/entries/icons/original/000/021/065/gudetama.png"
-          }
-        })
-      };
-    });
-  }
+Navigation.registerComponent('awesome-places.SideDrawerScreen', () => SideDrawerScreen);
+Navigation.registerComponent('awesome-places.FindPlaceScreen', () => FindPlaceScreen, store, Provider);
+Navigation.registerComponent('awesome-places.SharePlaceScreen', () => SharePlaceScreen, store, Provider);
+Navigation.registerComponent('awesome-places.PlaceDetailScreen', () => PlaceDetailScreen, store, Provider);
 
-  placeSelectedHandler(key) {
-    this.setState(prevState => {
-      return {
-        selectedPlace: prevState.places.find(place => place.key === key)
-      };
-    });
-  }
-
-  placeDeletedHandler() {
-    this.setState(prevState => {
-      return {
-        places: prevState.places.filter(place => place.key !== prevState.selectedPlace.key),
-        selectedPlace: null
-      }
-    });
-  }
-
-  modalClosedHandler() {
-    this.setState({ selectedPlace: null });
-  }
-
-  render() {
-    return (
-      <View style={styles.container}>
-        <PlaceDetail
-          selectedPlace={this.state.selectedPlace}
-          onItemDeleted={this.placeDeletedHandler}
-          onModalClosed={this.modalClosedHandler}
-        />
-        <PlaceInput onPlaceAdded={this.placeAddedHandler} />
-        <PlaceList places={this.state.places} onItemSelected={this.placeSelectedHandler} />
-      </View>
-    );
-  }
-}
-
-const styles = StyleSheet.create({
-  container: {
-    width: '100%',
-    padding: 26,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'flex-start',
+// Start a App
+Navigation.startSingleScreenApp({
+  screen: {
+    screen: 'awesome-places.AuthScreen',
+    title: 'Login'
   }
 });

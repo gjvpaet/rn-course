@@ -3,15 +3,6 @@
 
     <item
         is-multidex="false"
-        jar="/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
-        <dex dex="/home/gabriel/www/rn-course/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_6b99c696c30fd2795d56f0b6b38fefc9932d9350.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -21,12 +12,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/gabriel/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jar="/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu/1.5.4/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
-        <dex dex="/home/gabriel/www/rn-course/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_996b98a149425dccdab4c164ce8f859b6dce8729.jar" />
+        revision="25.0.1"
+        sha1="1f6ff1728c297524e82b875ce2dfda946f4bca41">
+        <dex dex="/home/gabriel/www/rn-course/android/app/build/intermediates/pre-dexed/debug/com.balysv.materialmenu-material-menu-1.5.4_d861403e1b3adc48c423d8268f0670da1d0d23e7.jar" />
     </item>
     <item
         is-multidex="false"
@@ -39,66 +30,57 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jar="/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.3/jars/libs/infer-annotations-4.0.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
-        <dex dex="/home/gabriel/www/rn-course/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_b9950d6b48dd58f3684cb60ba6b20e8cd72b6cf6.jar" />
+        revision="25.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/gabriel/www/rn-course/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_850228fb91cb7292615b0d028de37b42f251c375.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jar="/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.aurelhubert/ahbottomnavigation/2.0.6/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="/home/gabriel/www/rn-course/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_12046d943a76f72ade1ab920afb9111d7f581695.jar" />
+        revision="25.0.1"
+        sha1="c8ba41bea7f78f8bdf3a803b9d08eb3fff416706">
+        <dex dex="/home/gabriel/www/rn-course/android/app/build/intermediates/pre-dexed/debug/com.aurelhubert-ahbottomnavigation-2.0.6_4b3f4c753608fb6a2262c1262727950bdbe32d72.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/gabriel/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jar="/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
-        <dex dex="/home/gabriel/www/rn-course/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_ccf0a946482ce91ac23540763f74d1889e6223d3.jar" />
+        revision="25.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/home/gabriel/www/rn-course/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_dbb6a1e98f82d3fc9151edbeb0804ba1e6cfb01f.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jar="/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
-        <dex dex="/home/gabriel/www/rn-course/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_898da1781f4c44a62d20f42908f27214b29704cc.jar" />
+        revision="25.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/gabriel/www/rn-course/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_2c4914e65a9da2aacd371fd050a9066170fad289.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jar="/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu-toolbar/1.5.4/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="/home/gabriel/www/rn-course/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_bd49506f1f199989187500ec5d6b957b54e03ac7.jar" />
+        revision="25.0.1"
+        sha1="55d7bf547c88cb7c8c7c5cdbf3b06dd66c9750f8">
+        <dex dex="/home/gabriel/www/rn-course/android/app/build/intermediates/pre-dexed/debug/com.balysv.materialmenu-material-menu-toolbar-1.5.4_b557525d468259cf0ee42d64ced584950840ad05.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/gabriel/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jar="/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="6975da39a7040257bd51d21a231b76c915872d38">
-        <dex dex="/home/gabriel/www/rn-course/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_12f61c6765246eb6dc38fd666753341be0ff9bcf.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/gabriel/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
-        <dex dex="/home/gabriel/www/rn-course/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_0390ba157eb1cd76c03c0b9c19837be7fb04d716.jar" />
+        revision="25.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/gabriel/www/rn-course/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_57f36d47ca778c1d789b64dbb1dbcec2244d5346.jar" />
     </item>
     <item
         is-multidex="false"
@@ -120,6 +102,123 @@
     </item>
     <item
         is-multidex="false"
+        jar="/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/gabriel/www/rn-course/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_6cdda9940b58b99fa4dd479ea9206aa42da69d29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/gabriel/www/rn-course/android/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.3.1_f513f06893fcd66bb8500f9ea2ef99852dce434a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/home/gabriel/www/rn-course/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_79823939084f46e7ced3fd80b174191f0d22930e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/gabriel/www/rn-course/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_ccf0a946482ce91ac23540763f74d1889e6223d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/gabriel/www/rn-course/android/app/build/intermediates/pre-dexed/debug/library-2.4.0_3951993b284d80f8c5455258022acf8953857622.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/home/gabriel/www/rn-course/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_79823939084f46e7ced3fd80b174191f0d22930e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/gabriel/www/rn-course/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_ccf0a946482ce91ac23540763f74d1889e6223d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/gabriel/www/rn-course/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_55c0cc8d0b6a478f337ae08006f3cbded266c5a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/gabriel/www/rn-course/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_980b4d172b7aa413738b4e59e785eb601ef0ec8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/gabriel/www/rn-course/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_0390ba157eb1cd76c03c0b9c19837be7fb04d716.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/gabriel/www/rn-course/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_fb0aeacff8aca20ff5e1ccf0fea3f37db7d41eb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/gabriel/www/rn-course/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_163caa12e3a742876700c132f5a319dd939be4a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/gabriel/www/rn-course/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_b117b533c0f6fbf94ca1897e69601ef07829a820.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.3/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -138,15 +237,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
-        <dex dex="/home/gabriel/www/rn-course/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_116daaee1252ff54e883ab04516d98d19d422577.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/home/gabriel/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
         jumboMode="false"
         optimize="true"
@@ -156,21 +246,183 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/gabriel/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jar="/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.3/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="/home/gabriel/www/rn-course/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_05a31da37e235d5ec9780419273f4be5c4dad5ea.jar" />
+        revision="25.0.1"
+        sha1="24303e5ddb2c1210dd7e8db9dbab018f50313e48">
+        <dex dex="/home/gabriel/www/rn-course/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.50.3_c30bc148d6d5a7e88a6ce943b58cfb6f70582aa3.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jar="/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/gabriel/www/rn-course/android/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.3.1_f284cf96ee8bea01f0c0c1c9fa1ea2c93982b4d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/gabriel/www/rn-course/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_12f61c6765246eb6dc38fd666753341be0ff9bcf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
-        <dex dex="/home/gabriel/www/rn-course/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_79823939084f46e7ced3fd80b174191f0d22930e.jar" />
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/home/gabriel/www/rn-course/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_6b99c696c30fd2795d56f0b6b38fefc9932d9350.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/home/gabriel/www/rn-course/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_996b98a149425dccdab4c164ce8f859b6dce8729.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/gabriel/www/rn-course/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_7d0205db7e4852ab589ad2fab05605f6f31f3830.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/gabriel/www/rn-course/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_b9950d6b48dd58f3684cb60ba6b20e8cd72b6cf6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/gabriel/www/rn-course/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_b9950d6b48dd58f3684cb60ba6b20e8cd72b6cf6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/home/gabriel/www/rn-course/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_898da1781f4c44a62d20f42908f27214b29704cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/home/gabriel/www/rn-course/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_6b99c696c30fd2795d56f0b6b38fefc9932d9350.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/gabriel/www/rn-course/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_c2d3a5039a1a2c41c29f6624a8ffe406b5fffc35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/home/gabriel/www/rn-course/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_996b98a149425dccdab4c164ce8f859b6dce8729.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/gabriel/www/rn-course/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_12f61c6765246eb6dc38fd666753341be0ff9bcf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/rncourse/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ee92e255dcd813c08213aad584450af5dbd00326">
+        <dex dex="/home/gabriel/www/rn-course/android/app/build/intermediates/pre-dexed/debug/rncourse-react-native-vector-icons-unspecified_d1abeb679ca675be0ae04a660d9ca3172b14b68b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/gabriel/www/rn-course/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_5d23250d0ee97ae3eedc838b8e52b4cb6dbf754c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/home/gabriel/www/rn-course/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_1b1d77d0f7cc5af19892d982084c9c7fd20228aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/home/gabriel/www/rn-course/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_116daaee1252ff54e883ab04516d98d19d422577.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/gabriel/www/rn-course/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_0390ba157eb1cd76c03c0b9c19837be7fb04d716.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/rncourse/react-native-navigation/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="db40d8bd9384cc120fa7409e36d648f0bb2b2533">
+        <dex dex="/home/gabriel/www/rn-course/android/app/build/intermediates/pre-dexed/debug/rncourse-react-native-navigation-unspecified_a55afcea01079d65259d58272383013489a5a175.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/home/gabriel/www/rn-course/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_898da1781f4c44a62d20f42908f27214b29704cc.jar" />
     </item>
     <item
         is-multidex="false"
@@ -183,12 +435,57 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jar="/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/home/gabriel/www/rn-course/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_e0fbdff96a09251667bc081f6ae847d9747e522b.jar" />
+        revision="25.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/gabriel/www/rn-course/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.3.1_f10392696edfb7c450c62fcce7baf4eb9521ff1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/gabriel/www/rn-course/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_f21a2be8b522030b17b8d808470cffb2cc19636e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/home/gabriel/www/rn-course/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_116daaee1252ff54e883ab04516d98d19d422577.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/rncourse/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ee92e255dcd813c08213aad584450af5dbd00326">
+        <dex dex="/home/gabriel/www/rn-course/android/app/build/intermediates/pre-dexed/debug/rncourse-react-native-vector-icons-unspecified_d1abeb679ca675be0ae04a660d9ca3172b14b68b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/gabriel/www/rn-course/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_31a6872b5ef5519015b7ce41411b02bbe9796029.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/gabriel/www/rn-course/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_6bde6690f2349095534773871505e6f26e05103a.jar" />
     </item>
 
 </items>

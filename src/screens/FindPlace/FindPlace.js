@@ -8,7 +8,18 @@ class FindPlaceScreen extends Component {
     constructor(props) {
         super(props);
 
+        this.onNavigatorEvent = this.onNavigatorEvent.bind(this);
         this.itemSelectedHandler = this.itemSelectedHandler.bind(this);
+
+        this.props.navigator.setOnNavigatorEvent(this.onNavigatorEvent);
+    }
+
+    onNavigatorEvent(event) {
+        if (event.type === 'NavBarButtonPress') {
+            if (event.id === 'sideDrawerToggle') {
+                this.props.navigator.toggleDrawer({ side: 'left' });
+            }
+        }
     }
 
     itemSelectedHandler(key) {

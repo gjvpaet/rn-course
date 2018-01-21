@@ -42,7 +42,8 @@ const startTabs = () => {
             ],
             drawer: {
                 left: {
-                    screen: 'awesome-places.SideDrawerScreen'
+                    screen: 'awesome-places.SideDrawerScreen',
+                    fixedWidth: 800
                 }
             }
         });

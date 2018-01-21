@@ -10,18 +10,6 @@ class PlaceDetail extends Component {
         super(props);
 
         this.placeDeletedHandler = this.placeDeletedHandler.bind(this);
-
-        props.navigator.setOnNavigatorEvent(this.onNavigatorEvent.bind(this));
-    }
-
-    onNavigatorEvent(event) {
-        if (event.type === 'NavBarButtonPress') {
-            if (event.id === 'sideDrawerToggle') {
-                this.props.navigator.toggleDrawer({
-                    side: 'left'
-                })
-            }
-        }
     }
 
     placeDeletedHandler() {

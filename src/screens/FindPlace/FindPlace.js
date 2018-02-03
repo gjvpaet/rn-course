@@ -29,14 +29,14 @@ class FindPlaceScreen extends Component {
             screen: 'awesome-places.PlaceDetailScreen',
             title: selPlace.name,
             passProps: {
-                selectedPlace: selPlace 
+                selectedPlace: selPlace
             }
         });
     }
 
     render() {
         return (
-            <View>
+            <View style={{ flex: 1, backgroundColor: 'white' }}>
                 <PlaceList places={this.props.places} onItemSelected={this.itemSelectedHandler} />
             </View>
         );

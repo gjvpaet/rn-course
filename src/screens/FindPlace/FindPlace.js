@@ -5,6 +5,10 @@ import { View, Text } from 'react-native';
 import PlaceList from '../../components/PlaceList/PlaceList';
 
 class FindPlaceScreen extends Component {
+    static navigatorStyle = {
+        navBarButtonColor: 'purple'
+    };
+
     constructor(props) {
         super(props);
 

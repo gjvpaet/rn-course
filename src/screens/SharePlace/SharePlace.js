@@ -22,6 +22,10 @@ import PlaceInput from '../../components/PlaceInput/PlaceInput';
 import PickLocation from '../../components/PickLocation/PickLocation';
 
 class SharePlaceScreen extends Component {
+    static navigatorStyle = {
+        navBarButtonColor: 'purple'
+    };
+
     constructor(props) {
         super(props);
 

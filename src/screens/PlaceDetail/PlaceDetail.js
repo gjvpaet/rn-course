@@ -1,7 +1,15 @@
 import { connect } from 'react-redux';
 import React, { Component } from 'react';
 import Icon from 'react-native-vector-icons/Ionicons';
-import { View, Image, Text, StyleSheet, TouchableOpacity } from 'react-native';
+import {
+    View,
+    Image,
+    Text,
+    Platform,
+    StyleSheet,
+    TouchableOpacity,
+    TouchableNativeFeedback
+} from 'react-native';
 
 import { deletePlace } from '../../store/actions/index';
 
@@ -28,11 +36,19 @@ class PlaceDetail extends Component {
                     <Text style={styles.placeName}>{this.props.selectedPlace.name}</Text>
                 </View>
                 <View>
-                    <TouchableOpacity onPress={this.placeDeletedHandler}>
-                        <View style={styles.deleteButton}>
-                            <Icon size={30} name="md-trash" color="red" />
-                        </View>
-                    </TouchableOpacity>
+                    {Platform.OS === 'android' ?
+                        <TouchableNativeFeedback onPress={this.placeDeletedHandler}>
+                            <View style={styles.deleteButton}>
+                                <Icon size={30} name="md-trash" color="red" />
+                            </View>
+                        </TouchableNativeFeedback>
+                        :
+                        <TouchableOpacity onPress={this.placeDeletedHandler}>
+                            <View style={styles.deleteButton}>
+                                <Icon size={30} name="ios-trash" color="red" />
+                            </View>
+                        </TouchableOpacity>
+                    }
                 </View>
             </View>
         );

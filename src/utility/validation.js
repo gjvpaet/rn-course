@@ -30,7 +30,7 @@ const minLengthValidator = (value, minLength) => {
 };
 
 const equalToValidator = (value, checkValue) => {
-    return value === checkValue;
+    return value === checkValue.equalTo
 };
 
 export default validate;

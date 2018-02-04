@@ -4,6 +4,10 @@
         "source": "/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_seekbar_thumb_material.xml"
     },
     {
+        "merged": "/home/gabriel/www/rn-course/android/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
         "merged": "/home/gabriel/www/rn-course/android/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
         "source": "/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/drawable/design_snackbar_background.xml"
     },
@@ -40,6 +44,10 @@
         "source": "/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_textfield_search_material.xml"
     },
     {
+        "merged": "/home/gabriel/www/rn-course/android/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
         "merged": "/home/gabriel/www/rn-course/android/app/build/intermediates/res/merged/debug/drawable/notification_background.xml",
         "source": "/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.aurelhubert/ahbottomnavigation/2.0.6/res/drawable/notification_background.xml"
     },
@@ -60,16 +68,16 @@
         "source": "/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
-        "merged": "/home/gabriel/www/rn-course/android/app/build/intermediates/res/merged/debug/drawable/design_bottom_navigation_item_background.xml",
-        "source": "/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/drawable/design_bottom_navigation_item_background.xml"
+        "merged": "/home/gabriel/www/rn-course/android/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/notification_icon_background.xml"
     },
     {
         "merged": "/home/gabriel/www/rn-course/android/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
         "source": "/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_cab_background_top_material.xml"
     },
     {
-        "merged": "/home/gabriel/www/rn-course/android/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
-        "source": "/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/notification_icon_background.xml"
+        "merged": "/home/gabriel/www/rn-course/android/app/build/intermediates/res/merged/debug/drawable/design_bottom_navigation_item_background.xml",
+        "source": "/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/drawable/design_bottom_navigation_item_background.xml"
     },
     {
         "merged": "/home/gabriel/www/rn-course/android/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
@@ -88,6 +96,10 @@
         "source": "/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_seekbar_tick_mark_material.xml"
     },
     {
+        "merged": "/home/gabriel/www/rn-course/android/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
         "merged": "/home/gabriel/www/rn-course/android/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
         "source": "/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/notification_tile_bg.xml"
     },
@@ -98,6 +110,10 @@
     {
         "merged": "/home/gabriel/www/rn-course/android/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
         "source": "/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/gabriel/www/rn-course/android/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable/common_google_signin_btn_text_light_focused.xml"
     },
     {
         "merged": "/home/gabriel/www/rn-course/android/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
@@ -116,6 +132,14 @@
         "source": "/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_btn_radio_material.xml"
     },
     {
+        "merged": "/home/gabriel/www/rn-course/android/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/home/gabriel/www/rn-course/android/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
         "merged": "/home/gabriel/www/rn-course/android/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
         "source": "/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_btn_borderless_material.xml"
     },
@@ -126,6 +150,10 @@
     {
         "merged": "/home/gabriel/www/rn-course/android/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
         "source": "/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/home/gabriel/www/rn-course/android/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable/common_google_signin_btn_icon_dark.xml"
     },
     {
         "merged": "/home/gabriel/www/rn-course/android/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
@@ -186,6 +214,10 @@
     {
         "merged": "/home/gabriel/www/rn-course/android/app/build/intermediates/res/merged/debug/drawable/item_background.xml",
         "source": "/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.aurelhubert/ahbottomnavigation/2.0.6/res/drawable/item_background.xml"
+    },
+    {
+        "merged": "/home/gabriel/www/rn-course/android/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/home/gabriel/www/rn-course/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable/common_google_signin_btn_text_dark_focused.xml"
     },
     {
         "merged": "/home/gabriel/www/rn-course/android/app/build/intermediates/res/merged/debug/drawable/design_password_eye.xml",
